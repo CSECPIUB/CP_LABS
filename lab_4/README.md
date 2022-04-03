@@ -88,11 +88,10 @@ int main() {
 		C == 'E' || C == 'e' ||
 		C == 'I' || C == 'i' || 
 		C == 'O' || C == 'o' ||
-		C == 'U' || C == 'u') {
+		C == 'U' || C == 'u')
 		std::cout << C << " is a Vowel.\n";	
-	} else {
+	else
 		std::cout << C << " is a Consonant.\n";
-	}
 
 	return 0;
 }
