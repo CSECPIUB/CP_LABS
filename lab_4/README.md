@@ -1,4 +1,3 @@
-# Labtask 1
 ## 1.	If the ages of Ali, Saleem and Noreen are input by the user, write a program to determine the youngest of the three (use IF statement)
 ## Solution:
 ```cpp
