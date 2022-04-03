@@ -65,7 +65,7 @@ int main() {
 	std::cin >> n;
 
 	if (n < 0) {
-		n{ -n };
+		n = -n;
 	}
 
 	std::cout << "\n|" << n << "| = " << n << '\n';
@@ -85,10 +85,10 @@ int main() {
 	std::cin >> C;
 
 	if (C == 'A' || C == 'a' ||
-		C == 'E' || C == 'e' ||
-		C == 'I' || C == 'i' || 
-		C == 'O' || C == 'o' ||
-		C == 'U' || C == 'u')
+	    C == 'E' || C == 'e' ||
+	    C == 'I' || C == 'i' || 
+	    C == 'O' || C == 'o' ||
+	    C == 'U' || C == 'u')
 		std::cout << C << " is a Vowel.\n";	
 	else
 		std::cout << C << " is a Consonant.\n";
