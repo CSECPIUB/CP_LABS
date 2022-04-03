@@ -65,7 +65,7 @@ int main() {
 	std::cin >> n;
 
 	if (n < 0) {
-		n = -n;
+		n{ -n };
 	}
 
 	std::cout << "\n|" << n << "| = " << n << '\n';
