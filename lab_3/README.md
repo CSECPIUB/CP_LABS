@@ -1,5 +1,5 @@
 ## 1. Practice these technique to show your efficiency in
-### a)
+### a) Variable Declaration - All Types
 ```cpp
 #include <iostream>
 
