@@ -1,5 +1,4 @@
 ## 1.	If the ages of Ali, Saleem and Noreen are input by the user, write a program to determine the youngest of the three (use IF statement)
-## Solution:
 ```cpp
 #include <iostream>
 
@@ -29,7 +28,6 @@ int main() {
 ```
 
 ## 2.	If the ages of Ali, Saleem and Noreen are input by the user, write a program to determine the oldest of the three (use IF…ELSE statement)
-## Solution:
 ```cpp
 #include <iostream>
 
@@ -54,7 +52,6 @@ int main() {
 ```
 
 ## 3.	Write a program return absolute value of an input integer without using any built-in function.
-## Solution:
 ```cpp
 #include <iostream>
 
@@ -73,7 +70,6 @@ int main() {
 ```
 
 ## 4.	Write a program to check whether the uppercase or lowercase alphabet is a vowel or not using if- else statement.
-## Solution:
 ```cpp
 #include <iostream>
 
